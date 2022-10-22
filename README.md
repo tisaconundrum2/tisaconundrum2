@@ -9,7 +9,7 @@ Me: Hi!<br>
 AI: Hi! How are you?<br>
 Me: I'm doing well.<br>
 AI: I'm sorry I don't know how to respond to that, what should I have said?<br>
-Response: <type in response>
+Response: \<type in response\>
 
 The next time you say "I'm doing well" the *AI* will remember to say your typed in response.
 
