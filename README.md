@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Full Stack developer from California, living in Pheonix</h3>
 <body>
 Thank you for visiting my page today, below you'll find a few things I'm working on and some of my interests. I could tell you about how I like to take long walks on the beach, but we both know that would be a lie since I live in Phoenix. What beaches even exist in Phoenix? None, except for a fake one next to a resort. We can talk about that later.
-<br><br>I've been at it with Software Engineering for a while now. I created my first real big program back when I was 14 for a science teacher of mine. She was having issues getting files transfered from her slow AF computer onto a flash drive, so I wrote some software for her that could get it transfered in an hour as opposed to the 3 that Windows at the time was predicting. My next larger project was a parrot like chat bot. You could teach it phrases and through some very complicated and convoluted logic it could repeat what you said. An example of that is like below
+<br><br>I've been at it with Software Engineering for a while now. I created my first real big program back when I was 14 for a science teacher of mine. She was having issues getting files transfered from her slow AF computer onto a flash drive, so I wrote some software for her that could get it transfered in an hour as opposed to the 3 that Windows at the time was predicting. My next larger project was a parrot like chat bot. You could teach it phrases and through some very complicated and convoluted logic it could repeat what you said. An example of that is like below<br><br>
 
 Me: Hi!<br>
 AI: Hi! How are you?<br>
