@@ -11,7 +11,7 @@ Me: I'm doing well.
 AI: I'm sorry I don't know how to respond to that, what should I have said?
 Response: <type in response>
 
-The next time you say "I'm doing well" the **AI** will remember to say your typed in response.
+The next time you say "I'm doing well" the *AI* will remember to say your typed in response.
 
 Like I said, super generic and borderline not even an AI. But it was a fun project nonetheless.
 
