@@ -12,7 +12,7 @@ Response: \<type in response\>
 
 The next time you say "I'm doing well" the *AI* will remember to say your typed in response.
 
-Like I said, super generic and borderline not even an AI. But it was a fun project nonetheless.
+Like I said, super generic and borderline not even an AI. I will say that I revamped this application and created a Python Qt project that responds much better to user input. This application utilizes pyAIML to communicate. You can see more that project here: https://github.com/tisaconundrum2/pyAIML
 
 Little known fact, is that I was president of the Robotics club back during my Uni days. I created an entire program to help students to learn the basics of electronics and robotics. It was super fun, and I ended up building a nice self driving RC car out of it. I have a whole instructables on it if you're curious. https://www.instructables.com/Wall-Following-Robot-Car/
 
