@@ -19,15 +19,15 @@ Little known fact, is that I was president of the Robotics club back during my U
 Anyways, that's all from me. Thanks for checking out my Github.
 </body>
 
-- 🔭 I’m currently working on [Promineo Tech](https://github.com/tisaconundrum2/promineotech)
+- 🔭 I’m currently working on [MailMind AI](https://mailmind.ai)
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning and working in **Javascript React C# Node JS**
 
-- 👯 I’m looking to collaborate on [F.Audio](https://github.com/tisaconundrum2/f.audio)
+- 👯 I’m looking to collaborate on [MailMind AI](https://mailmind.ai)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tisaconundrum2/](https://github.com/tisaconundrum2/)
 
-- 💬 Ask me about **Python QT and C# .NET 3**
+- 💬 Ask me about **Python C# .NET LLM GPT**
 
 - 📫 How to reach me **nfinch1992@gmail.com**
 
