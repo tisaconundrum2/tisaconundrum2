@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nicholas</h1>
-<h3 align="center">I am a passionate Full Stack developer from California, living in Pheonix</h3>
+<h1 align="center">Ahhh! You found me.</h1>
+<h3 align="center">Anyway, hi, I'm Nicholas a passionate Backend developer from California, was in Pheonix, now in Pittsburgh PA</h3>
 <body>
-Thank you for visiting my page today, below you'll find a few things I'm working on and some of my interests. I could tell you about how I like to take long walks on the beach, but we both know that would be a lie since I live in Phoenix. What beaches even exist in Phoenix? None, except for a fake one next to a resort. We can talk about that later.
-<br><br>I've been at it with Software Engineering for a while now. I created my first real big program back when I was 14 for a science teacher of mine. She was having issues getting files transfered from her slow AF computer onto a flash drive, so I wrote some software for her that could get it transfered in an hour as opposed to the 3 that Windows at the time was predicting. My next larger project was a parrot like chat bot. You could teach it phrases and through some very complicated and convoluted logic it could repeat what you said. An example of that is like below<br><br>
+Thank you for visiting my page today, below you'll find a few things I'm working on and some of my interests. I could tell you about how I like to take long walks on the beach, but we both know that would be a lie since I live in Pittsburgh, we do have a river though. I don't walk that though. We can talk about it later.
+<br><br>I've been at it with Software Engineering for a while now. I created my first real big program back when I was 14 for a science teacher of mine. She was having issues getting files transfered from her slow AF computer onto a flash drive, so I wrote some software for her that could get it transfered in an hour as opposed to the 3 that Windows at the time was predicting. My next larger project was a parrot like chat bot. You could teach it phrases and through some very complicated and convoluted logic (literally all if statements) it could repeat what you said. An example of that is like below<br><br>
 
 Me: Hi!<br>
 AI: Hi! How are you?<br>
@@ -14,16 +14,16 @@ The next time you say "I'm doing well" the *AI* will remember to say your typed 
 
 Like I said, super generic and borderline not even an AI. I will say that I revamped this application and created a Python Qt project that responds much better to user input. This application utilizes pyAIML to communicate. You can see more of that project here: https://github.com/tisaconundrum2/pyAIML
 
-Little known fact, is that I was president of the Robotics club back during my Uni days. I created an entire program to help students to learn the basics of electronics and robotics. It was super fun, and I ended up building a nice self driving RC car out of it. I have a whole instructables on it if you're curious. https://www.instructables.com/Wall-Following-Robot-Car/
+Little known fact, is that I was president of the Robotics club back during my Uni days. I created an entire program to help students learn the basics of electronics and robotics. It was fun, and I ended up building a nice self driving RC car out of it. I have a whole instructables on it if you're curious. https://www.instructables.com/Wall-Following-Robot-Car/
 
 Anyways, that's all from me. Thanks for checking out my Github.
 </body>
 
-- 🔭 I’m currently working on [MailMind AI](https://mailmind.ai)
+- 🔭 I’m currently working on [My Resume](https://tisaconundrum2.github.io/MyResume/)
 
-- 🌱 I’m currently learning and working in **Javascript React C# Node JS**
+- 🌱 I’m currently learning and working in **Python, Blazor C# .NET, JS**
 
-- 👯 I’m looking to collaborate on [MailMind AI](https://mailmind.ai)
+- 👯 I’m looking to collaborate on [I'm Open]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/tisaconundrum2/](https://github.com/tisaconundrum2/)
 
