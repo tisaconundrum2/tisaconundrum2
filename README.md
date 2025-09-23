@@ -4,11 +4,13 @@
 Thank you for visiting my page today, below you'll find a few things I'm working on and some of my interests. I could tell you about how I like to take long walks on the beach, but we both know that would be a lie since I live in Pittsburgh, not so land locked as we do have a river, but I don't walk that though. Maybe you take long walks and think existentially... let's talk about it 😂.
 <br><br>I've been at it with Software Engineering for a while now. I created my first real big program back when I was 14 for a science teacher of mine. She was having issues getting files transfered from her slow AF computer onto a flash drive, so I wrote some software for her that could get it transfered in an hour as opposed to the 3 that Windows at the time was predicting. My next larger project was a parrot like chat bot. You could teach it phrases and through some very complicated and convoluted logic (literally all if statements) it could repeat what you said. An example of that is like below<br><br>
 
-Me: Hi!<br>
-AI: Hi! How are you?<br>
-Me: I'm doing well.<br>
+```
+Me: Hi!
+AI: Hi! How are you?
+Me: I'm doing well.
 AI: I'm sorry I don't know how to respond to that, what should I have said?<br>
 Response: \<type in response\>
+```
 
 The next time you say "I'm doing well" the *AI* will remember to say your typed in response.
 
